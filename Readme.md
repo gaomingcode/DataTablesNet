@@ -11,21 +11,11 @@ DataTables is a table enhancing library which adds features such as paging, orde
 
 For inclusion of this library using a standard `<script>` tag, rather than using this package, it is recommended that you use the [DataTables download builder](//datatables.net/download) which can create CDN or locally hosted packages for you, will all dependencies satisfied.
 
-### npm
+
+### composer
 
 ```
-npm install datatables.net
-```
-
-```
-var $ = require( 'jquery' );
-require( 'datatables.net' )( window, $ );
-```
-
-### bower
-
-```
-bower install --save datatables.net
+composer require gaomingcode/datatables.net
 ```
 
 
