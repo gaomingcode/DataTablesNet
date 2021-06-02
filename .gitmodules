@@ -1,4 +1,0 @@
-[submodule "dataTables"]
-	path = dataTables
-	url = https://github.com/DataTables/Dist-DataTables
-	branch = 1.10.24
