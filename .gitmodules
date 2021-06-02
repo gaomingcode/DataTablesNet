@@ -23,3 +23,6 @@
 [submodule "fixedheader"]
 	path = fixedheader
 	url = https://github.com/DataTables/Dist-DataTables-FixedHeader-Bootstrap5
+[submodule "keytable"]
+	path = keytable
+	url = https://github.com/DataTables/Dist-DataTables-Keytable-Bootstrap5
