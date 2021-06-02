@@ -35,3 +35,6 @@
 [submodule "scroller"]
 	path = scroller
 	url = https://github.com/DataTables/Dist-DataTables-Scroller-Bootstrap5
+[submodule "select"]
+	path = select
+	url = https://github.com/DataTables/Dist-DataTables-Select-Bootstrap5
