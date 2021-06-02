@@ -26,3 +26,6 @@
 [submodule "keytable"]
 	path = keytable
 	url = https://github.com/DataTables/Dist-DataTables-Keytable-Bootstrap5
+[submodule "responsive"]
+	path = responsive
+	url = https://github.com/DataTables/Dist-DataTables-Responsive-Bootstrap5
