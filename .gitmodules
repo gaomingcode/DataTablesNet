@@ -38,3 +38,6 @@
 [submodule "select"]
 	path = select
 	url = https://github.com/DataTables/Dist-DataTables-Select-Bootstrap5
+[submodule "searchpanes"]
+	path = searchpanes
+	url = https://github.com/DataTables/Dist-DataTables-Searchpanes-Bootstrap5
