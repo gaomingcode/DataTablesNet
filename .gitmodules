@@ -32,3 +32,6 @@
 [submodule "rowgroup"]
 	path = rowgroup
 	url = https://github.com/DataTables/Dist-DataTables-Rowgroup-Bootstrap5
+[submodule "scroller"]
+	path = scroller
+	url = https://github.com/DataTables/Dist-DataTables-Scroller-Bootstrap5
