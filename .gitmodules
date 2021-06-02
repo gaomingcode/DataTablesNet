@@ -14,3 +14,6 @@
 [submodule "colreorder"]
 	path = colreorder
 	url = https://github.com/DataTables/Dist-DataTables-ColReorder-Bootstrap5
+[submodule "rowreorder"]
+	path = rowreorder
+	url = https://github.com/DataTables/Dist-DataTables-RowReorder-Bootstrap5
