@@ -11,3 +11,6 @@
 [submodule "buttons"]
 	path = buttons
 	url = https://github.com/DataTables/Dist-DataTables-Buttons-Bootstrap5
+[submodule "colreorder"]
+	path = colreorder
+	url = https://github.com/DataTables/Dist-DataTables-ColReorder-Bootstrap5
