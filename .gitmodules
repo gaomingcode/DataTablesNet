@@ -29,3 +29,6 @@
 [submodule "responsive"]
 	path = responsive
 	url = https://github.com/DataTables/Dist-DataTables-Responsive-Bootstrap5
+[submodule "rowgroup"]
+	path = rowgroup
+	url = https://github.com/DataTables/Dist-DataTables-Rowgroup-Bootstrap5
