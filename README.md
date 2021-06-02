@@ -1,6 +1,5 @@
-[![GitHub][github_img]][github_url]
-[github_img]: https://img.shields.io/github/release/gaomingcode/dataTablesNet.svg
-[github_url]: https://github.com/gaomingcode/dataTablesNet/releases/latest
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/dataTablesNet.svg)](https://github.com/gaomingcode/dataTablesNet)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/datatables.net)](https://github.com/gaomingcode/dataTablesNet)
 
 # DataTables for jQuery 
 
