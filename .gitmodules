@@ -20,3 +20,6 @@
 [submodule "fixedcolumns"]
 	path = fixedcolumns
 	url = https://github.com/DataTables/Dist-DataTables-FixedColumns-Bootstrap5
+[submodule "fixedheader"]
+	path = fixedheader
+	url = https://github.com/DataTables/Dist-DataTables-FixedHeader-Bootstrap5
