@@ -8,3 +8,6 @@
 [submodule "autofill"]
 	path = autofill
 	url = https://github.com/DataTables/Dist-DataTables-AutoFill-Bootstrap5
+[submodule "buttons"]
+	path = buttons
+	url = https://github.com/DataTables/Dist-DataTables-Buttons-Bootstrap5
