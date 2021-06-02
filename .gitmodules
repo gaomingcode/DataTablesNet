@@ -1,7 +1,4 @@
-[submodule "DataTables"]
+[submodule "dataTables"]
 	path = dataTables
 	url = https://github.com/DataTables/Dist-DataTables
 	branch = 1.10.24
-[submodule "Bootstrap5"]
-	path = bootstrap5
-	url = https://github.com/DataTables/Dist-DataTables-Bootstrap5
