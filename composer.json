@@ -24,6 +24,6 @@
         "table"
     ],
     "require": {
-        "components/jquery": ">=1.7"
+        "gaomingcode/jquery": ">=1.7"
     }
 }
