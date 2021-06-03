@@ -22,14 +22,12 @@
         "jQuery",
         "table"
     ],
-        "scripts": {
+    "scripts": {
         "post-install-cmd": [
-            "find docroot vendor -name '.git' | xargs rm -rf",
-            "find docroot vendor -name '.gitignore' | xargs rm -rf"
+            "find vendor -type d -name .git -exec rm -rf '{}' \\;",
         ],
         "post-update-cmd": [
-            "find docroot vendor -name '.git' | xargs rm -rf",
-            "find docroot vendor -name '.gitignore' | xargs rm -rf"
+            "find vendor -type d -name .git -exec rm -rf '{}' \\;",
         ]
     }
 }
