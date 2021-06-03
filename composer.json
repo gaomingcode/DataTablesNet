@@ -22,9 +22,6 @@
         "jQuery",
         "table"
     ],
-    "require": {
-        "gaomingcode/jquery": ">=1.7"
-    },
         "scripts": {
         "post-install-cmd": [
             "find docroot vendor -name '.git' | xargs rm -rf",
