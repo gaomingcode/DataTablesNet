@@ -2,8 +2,7 @@
 
 [![GitHub Version](https://img.shields.io/github/release/gaomingcode/dataTablesNet.svg)](https://github.com/gaomingcode/dataTablesNet)
 [![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/datatables.net)](https://github.com/gaomingcode/dataTablesNet)
-[![GitHub Version](https://img.shields.io/github/license/gaomingcode/dataTablesNet)](https://github.com/gaomingcode/dataTablesNet)
-
+[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/datatables.net)](https://github.com/gaomingcode/dataTablesNet)
 
 This package contains distribution files for the [DataTables library](https://datatables.net) for [jQuery](http://jquery.com/). Only the core software for this library is contained in this package - to be correctly styled, a styling package for DataTables must also be included. Styling options include DataTable's native styling, [Bootstrap](http://getbootstrap.com) and [Foundation](http://foundation.zurb.com/).
 
