@@ -1,7 +1,9 @@
+# DataTables for jQuery 
+
 [![GitHub Version](https://img.shields.io/github/release/gaomingcode/dataTablesNet.svg)](https://github.com/gaomingcode/dataTablesNet)
 [![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/datatables.net)](https://github.com/gaomingcode/dataTablesNet)
+[![GitHub Version](https://img.shields.io/github/license/gaomingcode/dataTablesNet)](https://github.com/gaomingcode/dataTablesNet)
 
-# DataTables for jQuery 
 
 This package contains distribution files for the [DataTables library](https://datatables.net) for [jQuery](http://jquery.com/). Only the core software for this library is contained in this package - to be correctly styled, a styling package for DataTables must also be included. Styling options include DataTable's native styling, [Bootstrap](http://getbootstrap.com) and [Foundation](http://foundation.zurb.com/).
 
@@ -10,17 +12,15 @@ DataTables is a table enhancing library which adds features such as paging, orde
 
 ## Installation
 
-### Browser
-
-For inclusion of this library using a standard `<script>` tag, rather than using this package, it is recommended that you use the [DataTables download builder](//datatables.net/download) which can create CDN or locally hosted packages for you, will all dependencies satisfied.
-
-
 ### Composer
 
 ```
 composer require gaomingcode/datatables.net
 ```
 
+### Browser
+
+For inclusion of this library using a standard `<script>` tag, rather than using this package, it is recommended that you use the [DataTables download builder](//datatables.net/download) which can create CDN or locally hosted packages for you, will all dependencies satisfied.
 
 
 ## Documentation
